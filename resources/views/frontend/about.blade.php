@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Modist - Free Bootstrap 4 Template by Colorlib</title>
+    <title>PURPOSESTUFF</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -53,7 +53,7 @@
 					<div class="col-md-7 py-5 wrap-about pb-md-5 ftco-animate">
 	          <div class="heading-section-bold mb-5 mt-md-5">
 	          	<div class="ml-md-0">
-		            <h2 class="mb-4">Modist <br>Online <br> <span>Fashion Shop</span></h2>
+		            <h2 class="mb-4">PURPOSESTUFF <br>Online <br> <span>Fashion Shop</span></h2>
 	            </div>
 	          </div>
 	          <div class="pb-md-5">

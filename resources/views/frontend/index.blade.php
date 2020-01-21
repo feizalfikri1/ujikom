@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Modist - Free Bootstrap 4 Template by Colorlib</title>
+    <title>PURPOSESTUFF</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -35,8 +35,8 @@
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center">
-        	<h3 class="v">Modist - Time to get dress</h3>
-        	<h3 class="vr">Since - 1985</h3>
+        	<h3 class="v">PURPOSESTUFF</h3>
+        	<h3 class="vr">Since - 2018</h3>
           <div class="col-md-11 ftco-animate text-center">
             <h1>Le Stylist</h1>
             <h2><span>Wear Your Dress</span></h2>
