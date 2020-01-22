@@ -13,7 +13,7 @@
               <div class="dropdown-menu" aria-labelledby="dropdown04">
               	<a class="dropdown-item" href="/shop">Shop</a>
                 <a class="dropdown-item" href="/produk-single">Single Product</a>
-                <a class="dropdown-item" href="/cart">Cart</a>
+                {{-- <a class="dropdown-item" href="/cart">Cart</a> --}}
                 <a class="dropdown-item" href="/cekout">Checkout</a>
               </div>
             </li>
