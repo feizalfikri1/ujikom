@@ -15,13 +15,15 @@ class CreateProduksTable extends Migration
     {
         Schema::create('produks', function (Blueprint $table) {
             $table->bigIncrements('id');
-            $table->string('nama');
+            $table->string('name');
             $table->string('slug');
-            $table->unsignedBigInteger('id_kategori');
-            $table->foreign('id_kategori')->references('id')->on('kategoris')->onDelete('cascade');
-            $table->double('harga');
-            $table->integer('jmlh');
-            $table->float('stok')->nullable();
+            //ADAPUN category_id NYA NNTI AKAN MERUJUK KE TABLE categories
+            //DIMANA UNTUK SAAT INI BELUM AKAN DIBAHAS RELASI ANTAR TABLE-NYA
+            $table->unsignedBigInteger('kategori_id');
+            $table->text('description')->nullable();
+            $table->string('image');
+            $table->integer('price');
+            $table->integer('weight');
             $table->timestamps();
         });
     }
